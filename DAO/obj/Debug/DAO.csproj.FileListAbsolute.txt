@@ -1,0 +1,81 @@
+C:\Users\Leomator\Documents\BaiTapLon\DAO\bin\Debug\DAO.dll
+C:\Users\Leomator\Documents\BaiTapLon\DAO\bin\Debug\DAO.pdb
+C:\Users\Leomator\Documents\BaiTapLon\DAO\bin\Debug\DTO.dll
+C:\Users\Leomator\Documents\BaiTapLon\DAO\bin\Debug\DTO.pdb
+C:\Users\Leomator\Documents\BaiTapLon\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Leomator\Documents\BaiTapLon\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Leomator\Documents\BaiTapLon\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Leomator\Documents\BaiTapLon\DAO\obj\Debug\DAO.dll
+C:\Users\Leomator\Documents\BaiTapLon\DAO\obj\Debug\DAO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb
+E:\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+E:\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+E:\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+E:\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+E:\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+E:\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb
+D:\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+D:\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+D:\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+D:\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+D:\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+D:\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb
+E:\New folder\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+E:\New folder\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+E:\New folder\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+E:\New folder\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+E:\New folder\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\New folder\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\New folder\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\New folder\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+E:\New folder\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb
+D:\BaiTapLon (6)\DAO\bin\Debug\DAO.dll
+D:\BaiTapLon (6)\DAO\bin\Debug\DAO.pdb
+D:\BaiTapLon (6)\DAO\bin\Debug\DTO.dll
+D:\BaiTapLon (6)\DAO\bin\Debug\DTO.pdb
+D:\BaiTapLon (6)\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\BaiTapLon (6)\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\BaiTapLon (6)\DAO\obj\Debug\DAO.dll
+D:\BaiTapLon (6)\DAO\obj\Debug\DAO.pdb

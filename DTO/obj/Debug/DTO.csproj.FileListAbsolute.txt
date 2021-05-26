@@ -1,0 +1,33 @@
+C:\Users\Leomator\Documents\BaiTapLon\DTO\bin\Debug\DTO.dll
+C:\Users\Leomator\Documents\BaiTapLon\DTO\bin\Debug\DTO.pdb
+C:\Users\Leomator\Documents\BaiTapLon\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Leomator\Documents\BaiTapLon\DTO\obj\Debug\DTO.dll
+C:\Users\Leomator\Documents\BaiTapLon\DTO\obj\Debug\DTO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\DTO\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\DTO\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\DTO\obj\Debug\DTO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\DTO\obj\Debug\DTO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DTO\bin\Debug\DTO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DTO\bin\Debug\DTO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DTO\obj\Debug\DTO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\DTO\obj\Debug\DTO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DTO\bin\Debug\DTO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DTO\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DTO\obj\Debug\DTO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\DTO\obj\Debug\DTO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DTO\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DTO\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DTO\obj\Debug\DTO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\DTO\obj\Debug\DTO.pdb
+D:\BaiTapLon (6)\DTO\bin\Debug\DTO.dll
+D:\BaiTapLon (6)\DTO\bin\Debug\DTO.pdb
+D:\BaiTapLon (6)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BaiTapLon (6)\DTO\obj\Debug\DTO.dll
+D:\BaiTapLon (6)\DTO\obj\Debug\DTO.pdb
+D:\BaiTapLon (6)\DTO\obj\Debug\DTO.csprojAssemblyReference.cache

@@ -1,0 +1,99 @@
+C:\Users\Leomator\Documents\BaiTapLon\BUS\bin\Debug\BUS.dll
+C:\Users\Leomator\Documents\BaiTapLon\BUS\bin\Debug\BUS.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BUS\bin\Debug\DAO.dll
+C:\Users\Leomator\Documents\BaiTapLon\BUS\bin\Debug\DTO.dll
+C:\Users\Leomator\Documents\BaiTapLon\BUS\bin\Debug\DAO.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BUS\bin\Debug\DTO.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Leomator\Documents\BaiTapLon\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Leomator\Documents\BaiTapLon\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Leomator\Documents\BaiTapLon\BUS\obj\Debug\BUS.dll
+C:\Users\Leomator\Documents\BaiTapLon\BUS\obj\Debug\BUS.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb
+E:\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+E:\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+E:\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+E:\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+E:\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+E:\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+E:\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+E:\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb
+D:\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+D:\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+D:\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+D:\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+D:\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+D:\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+D:\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+D:\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb
+E:\New folder\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+E:\New folder\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+E:\New folder\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+E:\New folder\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+E:\New folder\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+E:\New folder\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+E:\New folder\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\New folder\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\New folder\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\New folder\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+E:\New folder\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb
+D:\BaiTapLon (6)\BUS\bin\Debug\BUS.dll
+D:\BaiTapLon (6)\BUS\bin\Debug\BUS.pdb
+D:\BaiTapLon (6)\BUS\bin\Debug\DAO.dll
+D:\BaiTapLon (6)\BUS\bin\Debug\DTO.dll
+D:\BaiTapLon (6)\BUS\bin\Debug\DAO.pdb
+D:\BaiTapLon (6)\BUS\bin\Debug\DTO.pdb
+D:\BaiTapLon (6)\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\BaiTapLon (6)\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\BaiTapLon (6)\BUS\obj\Debug\BUS.dll
+D:\BaiTapLon (6)\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,10 @@
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.QuanLyBanHang.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb

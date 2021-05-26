@@ -1,0 +1,417 @@
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BUS.dll
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\BUS.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\DAO.dll
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\DAO.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\DTO.dll
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\DTO.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserKiemTraMonAnControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserLichSuGiaoHangControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.dll
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.xml
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserNhapKhoControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.UserXuatKhoControl.resources
+C:\Users\Leomator\Documents\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKiemTraMonAnControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLichSuGiaoHangControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserNhapKhoControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatKhoControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\USER\Downloads\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+E:\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKiemTraMonAnControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLichSuGiaoHangControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserNhapKhoControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatKhoControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+E:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKiemTraMonAnControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLichSuGiaoHangControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserNhapKhoControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatKhoControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKiemTraMonAnControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeXuatNhapKhoControl.resources
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+E:\LTTQ\BAO CAO\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+E:\New folder\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeXuatNhapKhoControl.resources
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+E:\New folder\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeXuatNhapKhoControl.resources
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\HP\Documents\BC\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserKhoControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeXuatNhapKhoControl.resources
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\USER\Downloads\ok\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.exe
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\BaiTapLon.pdb
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.dll
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.dll
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.dll
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.dll
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.dll
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.dll
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\BUS.pdb
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\DTO.pdb
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.pdb
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.xml
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.pdb
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.WinForms.xml
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.pdb
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\LiveCharts.Wpf.xml
+D:\BaiTapLon (6)\BaiTapLon\bin\Debug\DAO.pdb
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmChiTietHoaDon.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmDangNhap.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyGiaoHang.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmMain.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyDoanhThu.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyKho.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNguoiDung.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyNhanVien.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyThucPham.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmQuanLyBanHang.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.frmHoaDon.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserChamCongControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserDanhSachGiaoHangControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLamMonAnControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserLuongControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserXuatNhapKhoControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserQuanLyNhanVienControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeDoanhThuControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.UserThongKeXuatNhapKhoControl.resources
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\GUI.csproj.CopyComplete
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.exe
+D:\BaiTapLon (6)\BaiTapLon\obj\Debug\BaiTapLon.pdb
